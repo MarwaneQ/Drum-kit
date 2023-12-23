@@ -17,6 +17,7 @@ body h1{
     justify-items: center;
     align-items: center;
     height: 400px;
+    gap: 12px;
 }
 .keys .key{
     display: flex;
